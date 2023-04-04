@@ -25,3 +25,4 @@ Feature: Login
       | mail  | pass |
       | anirudhms2912@gmail.com |    @nirudhmS58 |
       | anirudhmsan2912@gmail.com |     andjudem |
+      | tamilsandron@gmail.com| sam|
